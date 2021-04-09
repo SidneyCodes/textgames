@@ -1,4 +1,4 @@
-#forkd from https://github.com/catseye/NaNoGenLab/tree/master/shanty-generator
+#forked from https://github.com/catseye/NaNoGenLab/tree/master/shanty-generator
 #!/usr/bin/env python
 
 import random
